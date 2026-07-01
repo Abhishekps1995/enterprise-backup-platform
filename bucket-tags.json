@@ -1,0 +1,20 @@
+{
+    "TagSet": [
+        {
+            "Key": "Environment",
+            "Value": "Development"
+        },
+        {
+            "Key": "Application",
+            "Value": "EnterpriseBackup"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevOps"
+        },
+        {
+            "Key": "CostCenter",
+            "Value": "Infrastructure"
+        }
+    ]
+}
